@@ -1,2 +1,6 @@
 
 *.class
+target/classes/META-INF/maven/springTut/springTutorial/pom.properties
+target/classes/META-INF/MANIFEST.MF
+/target/
+.settings/org.eclipse.jdt.core.prefs
