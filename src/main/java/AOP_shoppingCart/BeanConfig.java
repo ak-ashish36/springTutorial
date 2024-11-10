@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 @Configuration
-@ComponentScan(basePackages = "shoppingCart")
+@ComponentScan(basePackages = "AOP_shoppingCart")
 @EnableAspectJAutoProxy
 public class BeanConfig {
 
